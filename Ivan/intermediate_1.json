@@ -1,0 +1,88 @@
+var employeesAll = ` [ {
+					"uniqueID": "0",
+					"firstName": "Zero",
+					"lastName": "Orez",
+					"emailAddress": "zero@orez.om",
+					"jobTitle": "Zerojob",
+					"salary": "00.000"
+					},
+					{
+					"uniqueID": "1",
+					"firstName": "One",
+					"lastName": "Eno",
+					"emailAddress": "one@eno.com",
+					"jobTitle": "Onejob",
+					"salary": "10.000"
+					},
+					{
+					"uniqueID": "2",
+					"firstName": "Two",
+					"lastName": "Owt",
+					"emailAddress": "two@owt.com",
+					"jobTitle": "Twojob",
+					"salary": "20.000"
+					},
+					{
+					"uniqueID": "3",
+					"firstName": "Three",
+					"lastName": "Eerht",
+					"emailAddress": "three@eerht.com",
+					"jobTitle": "Threejob",
+					"salary": "30.000"
+					},
+					{
+					"uniqueID": "4",
+					"firstName": "Four",
+					"lastName": "Ruof",
+					"emailAddress": "four@ruof.com",
+					"jobTitle": "Fourjob",
+					"salary": "40.000"
+					},
+					{
+					"uniqueID": "5",
+					"firstName": "Five",
+					"lastName": "Evif",
+					"emailAddress": "five@evif.com",
+					"jobTitle": "Fivejob",
+					"salary": "50.000"
+					},
+					{
+					"uniqueID": "6",
+					"firstName": "Six",
+					"lastName": "Xis",
+					"emailAddress": "six@xis.com",
+					"jobTitle": "Sixjob",
+					"salary": "60.000"
+					},
+					{
+					"uniqueID": "7",
+					"firstName": "Seven",
+					"lastName": "Neves",
+					"emailAddress": "seven@neves.com",
+					"jobTitle": "Sevenjob",
+					"salary": "70.000"
+					},
+					{
+					"uniqueID": "8",
+					"firstName": "Eight",
+					"lastName": "Thgie",
+					"emailAddress": "eight@thgie.com",
+					"jobTitle": "Eightjob",
+					"salary": "80.000"
+					},
+					{
+					"uniqueID": "9",
+					"firstName": "Nine",
+					"lastName": "Enin",
+					"emailAddress": "nine@enin.com",
+					"jobTitle": "Ninejob",
+					"salary": "90.000"
+					}
+					] ` ;
+
+
+
+
+
+
+
