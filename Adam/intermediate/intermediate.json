@@ -1,0 +1,83 @@
+var employees = `{
+		"company":[
+		        {
+		            "UniqueID": "12341",
+		            "FirstName": "Anton",
+		        	"Lastname": "Stone",
+		        	"EmailAddress": "anton.stone@address.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"20000"
+		        },
+		        {
+		                 "UniqueID": "12342",
+		            "FirstName": "Mia",
+		        	"Lastname": "Wong",
+		        	"EmailAddress": "mia.wong@address.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"20000"
+		        },
+		        {
+		        	"UniqueID": "12343",
+		            "FirstName": "Peter",
+		        	"Lastname": "Stanbridge",
+		        	"EmailAddress": "peter.stanbridge@address.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"20000"
+		        },
+		        {
+		        	"UniqueID": "12344",
+		            "FirstName": "Trevor",
+		        	"Lastname": "Virtue",
+		        	"EmailAddress": "Trevor.virtue@adress.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"30000"
+		        },
+		        {
+		        	"UniqueID": "12345",
+		            "FirstName": "Ang",
+		        	"Lastname": "Li",
+		        	"EmailAddress": "@adress.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"30000"
+		        },
+		        {
+		        	"UniqueID": "12346",
+		            "FirstName": "Daly",
+		        	"Lastname": "Harry",
+		        	"EmailAddress": "dally.harry@adress.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"20000"
+		        },
+		        {
+		        	"UniqueID": "12347",
+		            "FirstName": "Verona",
+		        	"Lastname": "Blair",
+		        	"EmailAddress": "verona.blair@adress.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"30000"
+		        },
+		        {
+		        	"UniqueID": "12348",
+		            "FirstName": "John",
+		        	"Lastname": "Doe",
+		        	"EmailAddress": "johndoe@adress.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"40000"
+		        },
+		        {
+		        	"UniqueID": "12349",
+		            "FirstName": "Jena",
+		        	"Lastname": "Doe",
+		        	"EmailAddress": "jena.doe@adress.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"40000"
+		        },
+		        {
+		        	"UniqueID": "12340",
+		            "FirstName": "Adam",
+		        	"Lastname": "Andrews",
+		        	"EmailAddress": "Adam.andrews@adress.com",
+		        	"JobTitle": "employee",
+		        	"Salary":"40000"
+		        }]
+    }`
